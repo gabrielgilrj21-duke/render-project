@@ -12,3 +12,8 @@ Este projeto é um aplicativo web desenvolvido com Streamlit para realizar uma a
 - Exibe um gráfico de dispersão entre preço e quilometragem.
 - Utiliza Pandas para manipulação dos dados.
 - Utiliza Plotly Express para gerar gráficos interativos.
+
+
+
+
+
